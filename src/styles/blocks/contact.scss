@@ -31,8 +31,13 @@
       line-height: 19.6px;
       padding-left: 16px;
       margin-bottom: 16px;
+      outline: none;
 
       @include mix.hover(border-color, #f0f1f4);
+
+      &:focus {
+        border-color: #f0f1f4;
+      }
     }
 
     &--textarea {

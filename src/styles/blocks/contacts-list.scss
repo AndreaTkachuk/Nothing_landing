@@ -1,9 +1,9 @@
 @use '../utilities/mixins' as mix;
 
 .contacts-list {
-  position: sticky;
-  bottom: 48px;
-  z-index: 1;
+  // position: sticky;
+  // bottom: 48px;
+  // z-index: 1;
   grid-column: 1 / -1;
 
   @include mix.on-tablet {
