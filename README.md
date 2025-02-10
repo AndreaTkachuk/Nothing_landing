@@ -3,7 +3,7 @@
 Welcome to our Nothing Website! This platform is designed to provide customers with an immersive experience where they can explore and learn about various Nothing products and conveniently find those that best suit their needs.
 
 # Technologies that was implemented in this projects
-HTML, SASS, JavaScript: The project utilizes these core web technologies for structuring the layout, styling with enhanced CSS through SASS preprocessor, and implementing interactive behaviors using JavaScript.
+HTML, SASS: The project utilizes these core web technologies for structuring the layout, styling with enhanced CSS through SASS preprocessor.
 
 BEM Methodology: BEM (Block Element Modifier) methodology is employed for a structured and maintainable CSS architecture. This ensures clarity and scalability of the stylesheets, benefiting both current development and future maintenance by other developers.
 
